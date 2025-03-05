@@ -32,7 +32,10 @@ nav ul li a:hover {
 section {
   margin-left: 2rem;
 }
-  
+
+.hobbyimages img {
+  width: 80%;
+}
 
 @media (max-width: 768px) {
   nav ul {
